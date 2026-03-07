@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/glass",
+  "parent": "minecraft:block/pillar",
   "textures": {
-    "all": "decorativeblocks:crystal_pillar"
+    "end": "decorativeblocks:block/crystal_pillar_top",
+    "side": "decorativeblocks:block/crystal_pillar_side"
   }
 }
