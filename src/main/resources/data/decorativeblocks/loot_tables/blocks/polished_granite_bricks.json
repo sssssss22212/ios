@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:polished_granite_bricks"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
