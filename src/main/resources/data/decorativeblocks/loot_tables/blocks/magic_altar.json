@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:magic_altar"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
