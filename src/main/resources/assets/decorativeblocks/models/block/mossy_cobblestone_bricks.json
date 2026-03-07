@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "decorativeblocks:mossy_cobblestone_bricks"
+    "all": "decorativeblocks:block/mossy_cobblestone_bricks"
   }
 }
