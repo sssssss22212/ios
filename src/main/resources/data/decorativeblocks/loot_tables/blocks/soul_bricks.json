@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:soul_bricks"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
