@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:mossy_volcanic"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
