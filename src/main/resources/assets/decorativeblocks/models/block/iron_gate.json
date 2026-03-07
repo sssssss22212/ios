@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "decorativeblocks:iron_gate"
+    "all": "decorativeblocks:block/iron_gate"
   }
 }
