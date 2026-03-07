@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "decorativeblocks:ender_tiles"
+    "all": "decorativeblocks:block/ender_tiles"
   }
 }
