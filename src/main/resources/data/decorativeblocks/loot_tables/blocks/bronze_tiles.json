@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:bronze_tiles"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
