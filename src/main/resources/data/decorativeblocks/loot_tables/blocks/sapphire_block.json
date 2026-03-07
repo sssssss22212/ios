@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:sapphire_block"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
