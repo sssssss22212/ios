@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:neon_orange"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
