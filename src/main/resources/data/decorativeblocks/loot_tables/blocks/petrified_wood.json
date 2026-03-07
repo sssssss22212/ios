@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:petrified_wood"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
