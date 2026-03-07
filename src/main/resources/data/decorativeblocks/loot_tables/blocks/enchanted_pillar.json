@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:enchanted_pillar"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
