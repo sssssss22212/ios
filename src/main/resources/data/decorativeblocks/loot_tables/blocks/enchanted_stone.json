@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:enchanted_stone"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
