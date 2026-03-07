@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/glass",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "decorativeblocks:neon_green"
+    "all": "decorativeblocks:block/neon_green"
   }
 }
