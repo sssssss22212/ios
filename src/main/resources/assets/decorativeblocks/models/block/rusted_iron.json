@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "decorativeblocks:rusted_iron"
+    "all": "decorativeblocks:block/rusted_iron"
   }
 }
