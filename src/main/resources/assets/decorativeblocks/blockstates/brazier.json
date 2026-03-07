@@ -1,10 +1,7 @@
 {
   "variants": {
-    "lit=false": {
+    "": {
       "model": "decorativeblocks:block/brazier"
-    },
-    "lit=true": {
-      "model": "decorativeblocks:block/brazier_lit"
     }
   }
 }
