@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:rune_stone"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
