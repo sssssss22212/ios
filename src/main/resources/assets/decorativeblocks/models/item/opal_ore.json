@@ -1,6 +1,3 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "decorativeblocks:item/opal_ore"
-  }
+  "parent": "decorativeblocks:block/opal_ore"
 }
