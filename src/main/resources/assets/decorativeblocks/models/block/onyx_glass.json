@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/glass",
   "textures": {
-    "all": "decorativeblocks:onyx_glass"
+    "all": "decorativeblocks:block/onyx_glass"
   }
 }
