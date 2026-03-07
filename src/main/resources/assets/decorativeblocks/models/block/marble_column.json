@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/pillar",
   "textures": {
-    "all": "decorativeblocks:marble_column"
+    "end": "decorativeblocks:block/marble_column_top",
+    "side": "decorativeblocks:block/marble_column_side"
   }
 }
