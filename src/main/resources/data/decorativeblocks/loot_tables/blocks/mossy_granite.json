@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:mossy_granite"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
