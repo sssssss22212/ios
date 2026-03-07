@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:mithril_plating"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
