@@ -1,6 +1,5 @@
 package com.decorativeblocks.menu;
 
-import com.decorativeblocks.init.ModMenuTypes;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.inventory.Inventory;
@@ -10,35 +9,27 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.network.PacketBuffer;
 
 public class AlchemyTableContainer extends Container {
-    private final Inventory internal = new Inventory(6); // 4 ingredients + 1 catalyst + 1 output
+    private final Inventory internal = new Inventory(6);
 
-    public AlchemyTableContainer(int windowId, PlayerInventory playerInv, PacketBuffer data) {
-        this(windowId, playerInv);
-    }
+    public AlchemyTableContainer(int id, PlayerInventory inv, PacketBuffer buf) { this(id, inv); }
 
-    public AlchemyTableContainer(int windowId, PlayerInventory playerInv) {
-        super(ModMenuTypes.ALCHEMY_TABLE.get(), windowId);
-
-        // 4 ingredient slots (cross pattern)
-        this.addSlot(new Slot(internal, 0, 62, 17));  // top
-        this.addSlot(new Slot(internal, 1, 44, 35));  // left
-        this.addSlot(new Slot(internal, 2, 80, 35));  // right
-        this.addSlot(new Slot(internal, 3, 62, 53));  // bottom
-        // Catalyst slot (center)
-        this.addSlot(new Slot(internal, 4, 62, 35));
-        // Output
-        this.addSlot(new Slot(internal, 5, 134, 35) {
-            @Override public boolean mayPlace(ItemStack stack) { return false; }
+    public AlchemyTableContainer(int id, PlayerInventory inv) {
+        super(ModMenuTypes.ALCHEMY_TABLE.get(), id);
+        addSlot(new Slot(internal, 0, 62, 17));
+        addSlot(new Slot(internal, 1, 44, 35));
+        addSlot(new Slot(internal, 2, 80, 35));
+        addSlot(new Slot(internal, 3, 62, 53));
+        addSlot(new Slot(internal, 4, 62, 35));
+        addSlot(new Slot(internal, 5, 134, 35) {
+            @Override public boolean mayPlace(ItemStack s) { return false; }
         });
-
-        // Player inventory
-        for (int row = 0; row < 3; row++)
-            for (int col = 0; col < 9; col++)
-                this.addSlot(new Slot(playerInv, col + row * 9 + 9, 8 + col * 18, 112 + row * 18));
-        for (int col = 0; col < 9; col++)
-            this.addSlot(new Slot(playerInv, col, 8 + col * 18, 170));
+        for (int r = 0; r < 3; r++)
+            for (int c = 0; c < 9; c++)
+                addSlot(new Slot(inv, c+r*9+9, 8+c*18, 112+r*18));
+        for (int c = 0; c < 9; c++)
+            addSlot(new Slot(inv, c, 8+c*18, 170));
     }
 
-    @Override public boolean stillValid(PlayerEntity player) { return true; }
-    @Override public ItemStack quickMoveStack(PlayerEntity player, int index) { return ItemStack.EMPTY; }
+    @Override public boolean stillValid(PlayerEntity p) { return true; }
+    @Override public ItemStack quickMoveStack(PlayerEntity p, int i) { return ItemStack.EMPTY; }
 }
