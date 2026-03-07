@@ -1,7 +1,16 @@
 {
   "variants": {
-    "": {
+    "axis=y": {
       "model": "decorativeblocks:block/ancient_pillar"
+    },
+    "axis=z": {
+      "model": "decorativeblocks:block/ancient_pillar",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "decorativeblocks:block/ancient_pillar",
+      "x": 90,
+      "y": 90
     }
   }
 }
