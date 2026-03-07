@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "item": "decorativeblocks:carved_stone"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:ancient_pillar",
+    "count": 3
+  }
+}

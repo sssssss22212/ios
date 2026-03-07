@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/glass",
+  "textures": {
+    "all": "decorativeblocks:blue_crystal_glass"
+  }
+}

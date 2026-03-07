@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MOM",
+    "OAO",
+    "MOM"
+  ],
+  "key": {
+    "M": {
+      "item": "decorativeblocks:mithril_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "decorativeblocks:magic_altar"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:altar_of_rebirth",
+    "count": 1
+  }
+}

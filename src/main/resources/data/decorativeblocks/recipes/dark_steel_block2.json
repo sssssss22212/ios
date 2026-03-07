@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SO"
+  ],
+  "key": {
+    "S": {
+      "item": "decorativeblocks:steel_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:dark_steel_block",
+    "count": 4
+  }
+}

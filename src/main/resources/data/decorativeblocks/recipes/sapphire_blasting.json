@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "decorativeblocks:sapphire_ore"
+  },
+  "result": "decorativeblocks:sapphire",
+  "experience": 1.0,
+  "cookingtime": 100
+}

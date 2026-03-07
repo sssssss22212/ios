@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CB ",
+    "  B",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "item": "decorativeblocks:crystal_shard_blue"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:crystal_wand",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AFA",
+    "FDF",
+    "AFA"
+  ],
+  "key": {
+    "A": {
+      "item": "decorativeblocks:ancient_fragment"
+    },
+    "F": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:ancient_altar",
+    "count": 1
+  }
+}

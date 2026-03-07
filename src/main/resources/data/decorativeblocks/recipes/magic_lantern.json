@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CGC",
+    "GLG",
+    "CGC"
+  ],
+  "key": {
+    "C": {
+      "item": "decorativeblocks:crystal_shard_blue"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "L": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:magic_lantern",
+    "count": 2
+  }
+}

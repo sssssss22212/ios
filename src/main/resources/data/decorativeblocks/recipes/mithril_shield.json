@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MIM",
+    "MSM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "decorativeblocks:mithril_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:mithril_shield",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+    modId="decorativeblocks"
+    version="3.0.0"
+    displayName="Decorative Blocks"
+    description='''
+        Adds 107+ decorative blocks, 6 new ores, 17 new items with unique mechanics!
+        - 6 new ores (Ruby, Sapphire, Mithril, Amethyst, Topaz, Onyx) spawn naturally
+        - All ores smeltable in furnace/blast furnace
+        - 60+ decorative blocks: neon lights, crystal glass, volcanic, ancient, magical
+        - 10+ new items: wands, swords, pickaxes, shields with special abilities
+        - All blocks craftable with recipes
+        - Void Wand: teleports you up + slow falling
+        - Ruby Staff: fire resistance + strength burst
+        - Soul Compass: shows distance to spawn
+        - Crystal Lens: night vision + shows block info
+        - Mithril Shield: active blocking with resistance
+    '''
+
+[[dependencies.decorativeblocks]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.decorativeblocks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

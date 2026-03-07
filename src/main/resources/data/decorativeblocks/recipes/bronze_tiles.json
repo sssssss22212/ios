@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB",
+    "BB"
+  ],
+  "key": {
+    "B": {
+      "item": "decorativeblocks:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:bronze_tiles",
+    "count": 4
+  }
+}

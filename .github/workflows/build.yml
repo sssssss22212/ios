@@ -1,0 +1,36 @@
+name: Build Mod
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 8
+        uses: actions/setup-java@v4
+        with:
+          java-version: '8'
+          distribution: 'temurin'
+
+      - name: Install Gradle 7.3
+        run: |
+          wget -q https://services.gradle.org/distributions/gradle-7.3-bin.zip -O /tmp/gradle.zip
+          unzip -q /tmp/gradle.zip -d /opt/gradle
+          echo "/opt/gradle/gradle-7.3/bin" >> $GITHUB_PATH
+
+      - name: Build mod
+        run: gradle build --no-daemon --stacktrace
+
+      - name: Upload JAR
+        uses: actions/upload-artifact@v4
+        with:
+          name: decorativeblocks-1.16.5
+          path: build/libs/*.jar
+          if-no-files-found: error

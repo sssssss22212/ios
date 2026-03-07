@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SI",
+    "SI"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone_bricks"
+    },
+    "I": {
+      "item": "decorativeblocks:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:cobalt_bricks",
+    "count": 4
+  }
+}

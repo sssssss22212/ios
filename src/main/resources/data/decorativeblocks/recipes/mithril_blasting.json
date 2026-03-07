@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "decorativeblocks:mithril_ore"
+  },
+  "result": "decorativeblocks:mithril_ingot",
+  "experience": 1.5,
+  "cookingtime": 100
+}

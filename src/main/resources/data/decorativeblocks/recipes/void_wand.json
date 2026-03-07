@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " V ",
+    " S ",
+    "   "
+  ],
+  "key": {
+    "V": {
+      "item": "decorativeblocks:void_essence"
+    },
+    "S": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:void_wand",
+    "count": 1
+  }
+}

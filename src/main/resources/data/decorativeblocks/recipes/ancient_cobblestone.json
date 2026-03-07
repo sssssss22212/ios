@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CA"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "A": {
+      "item": "decorativeblocks:ancient_fragment"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:ancient_cobblestone",
+    "count": 4
+  }
+}

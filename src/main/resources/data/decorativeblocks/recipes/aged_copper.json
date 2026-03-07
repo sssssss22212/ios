@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CV"
+  ],
+  "key": {
+    "C": {
+      "item": "decorativeblocks:corroded_copper"
+    },
+    "V": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:aged_copper",
+    "count": 4
+  }
+}

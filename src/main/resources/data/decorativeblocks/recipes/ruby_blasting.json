@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "decorativeblocks:ruby_ore"
+  },
+  "result": "decorativeblocks:ruby",
+  "experience": 1.0,
+  "cookingtime": 100
+}

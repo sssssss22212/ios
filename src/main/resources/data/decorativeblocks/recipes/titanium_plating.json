@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TT",
+    "TT"
+  ],
+  "key": {
+    "T": {
+      "item": "decorativeblocks:titanium_shard"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:titanium_plating",
+    "count": 4
+  }
+}

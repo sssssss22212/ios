@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "decorativeblocks:amethyst_ore"
+  },
+  "result": "decorativeblocks:amethyst_gem",
+  "experience": 1.0,
+  "cookingtime": 200
+}

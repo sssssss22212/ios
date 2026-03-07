@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "decorativeblocks:sapphire"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:sapphire_block",
+    "count": 1
+  }
+}

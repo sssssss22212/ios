@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GVG",
+    "VGV",
+    "GVG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "V": {
+      "item": "decorativeblocks:void_essence"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:void_glass",
+    "count": 4
+  }
+}

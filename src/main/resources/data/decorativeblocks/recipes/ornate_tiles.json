@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GCG",
+    "CCC",
+    "GCG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "item": "minecraft:polished_blackstone"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:ornate_tiles",
+    "count": 4
+  }
+}

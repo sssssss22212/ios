@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "decorativeblocks:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "decorativeblocks:ruby",
+    "count": 9
+  }
+}

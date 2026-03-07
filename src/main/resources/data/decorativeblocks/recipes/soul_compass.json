@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GEG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "decorativeblocks:sapphire"
+    },
+    "E": {
+      "item": "minecraft:compass"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:soul_compass",
+    "count": 1
+  }
+}

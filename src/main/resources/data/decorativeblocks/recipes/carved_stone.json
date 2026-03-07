@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS ",
+    "S S",
+    "SS "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:carved_stone",
+    "count": 2
+  }
+}

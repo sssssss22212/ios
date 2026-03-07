@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SAS",
+    "ASA",
+    "SAS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sand"
+    },
+    "A": {
+      "item": "decorativeblocks:ancient_fragment"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:ancient_sand",
+    "count": 4
+  }
+}

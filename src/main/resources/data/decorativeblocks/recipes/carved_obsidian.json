@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OA",
+    "AO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "decorativeblocks:ancient_fragment"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:carved_obsidian",
+    "count": 4
+  }
+}

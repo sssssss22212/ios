@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "decorativeblocks:ruby_ore"
+  },
+  "result": "decorativeblocks:ruby",
+  "experience": 1.0,
+  "cookingtime": 200
+}

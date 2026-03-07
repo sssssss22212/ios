@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:dark_bricks",
+    "count": 4
+  }
+}

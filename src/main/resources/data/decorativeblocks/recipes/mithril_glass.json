@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MGM",
+    "GGG",
+    "MGM"
+  ],
+  "key": {
+    "M": {
+      "item": "decorativeblocks:mithril_ingot"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:mithril_glass",
+    "count": 4
+  }
+}

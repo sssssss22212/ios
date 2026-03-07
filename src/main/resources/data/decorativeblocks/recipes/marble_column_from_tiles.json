@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M ",
+    "M ",
+    "  "
+  ],
+  "key": {
+    "M": {
+      "item": "decorativeblocks:marble_tiles"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:marble_column",
+    "count": 2
+  }
+}

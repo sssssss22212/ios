@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:crystal_pillar",
+    "count": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SgS",
+    "GGG",
+    "SgS"
+  ],
+  "key": {
+    "S": {
+      "item": "decorativeblocks:sapphire"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "g": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:sapphire_glass",
+    "count": 4
+  }
+}

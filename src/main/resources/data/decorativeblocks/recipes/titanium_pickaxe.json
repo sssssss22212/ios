@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "T": {
+      "item": "decorativeblocks:titanium_shard"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:titanium_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ROR",
+    "OAO",
+    "ROR"
+  ],
+  "key": {
+    "R": {
+      "item": "decorativeblocks:ruby"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "decorativeblocks:ancient_fragment"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:magic_altar",
+    "count": 1
+  }
+}

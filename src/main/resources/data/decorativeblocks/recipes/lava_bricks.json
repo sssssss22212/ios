@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SL",
+    "SL"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone_bricks"
+    },
+    "L": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:lava_bricks",
+    "count": 4
+  }
+}

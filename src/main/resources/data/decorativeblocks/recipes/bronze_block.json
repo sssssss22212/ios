@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "decorativeblocks:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:bronze_block",
+    "count": 1
+  }
+}

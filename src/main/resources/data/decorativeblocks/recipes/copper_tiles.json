@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "decorativeblocks:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:copper_tiles",
+    "count": 4
+  }
+}

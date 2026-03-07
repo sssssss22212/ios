@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS ",
+    "SS ",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "item": "decorativeblocks:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:polished_steel",
+    "count": 4
+  }
+}

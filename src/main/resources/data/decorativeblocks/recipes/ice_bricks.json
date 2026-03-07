@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II",
+    "II"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:ice_bricks",
+    "count": 4
+  }
+}

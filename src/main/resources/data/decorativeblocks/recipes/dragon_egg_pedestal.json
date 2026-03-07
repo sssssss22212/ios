@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OSO",
+    "SOS",
+    "OSO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "S": {
+      "item": "decorativeblocks:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:dragon_egg_pedestal",
+    "count": 4
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MM",
+    "MM"
+  ],
+  "key": {
+    "M": {
+      "item": "decorativeblocks:mithril_ingot"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:mithril_plating",
+    "count": 4
+  }
+}

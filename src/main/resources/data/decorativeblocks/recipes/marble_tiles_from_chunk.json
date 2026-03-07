@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MM",
+    "MM"
+  ],
+  "key": {
+    "M": {
+      "item": "decorativeblocks:marble_chunk"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:marble_tiles",
+    "count": 4
+  }
+}

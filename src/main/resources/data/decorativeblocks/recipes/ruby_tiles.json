@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RR",
+    "RR"
+  ],
+  "key": {
+    "R": {
+      "item": "decorativeblocks:ruby"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:ruby_tiles",
+    "count": 4
+  }
+}

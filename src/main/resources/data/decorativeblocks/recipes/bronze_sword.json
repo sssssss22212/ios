@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B  ",
+    "B  ",
+    "S  "
+  ],
+  "key": {
+    "B": {
+      "item": "decorativeblocks:bronze_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:bronze_sword",
+    "count": 1
+  }
+}

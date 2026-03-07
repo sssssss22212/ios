@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SC",
+    "SC"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone_bricks"
+    },
+    "C": {
+      "item": "decorativeblocks:crystal_shard_blue"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:crystal_bricks",
+    "count": 4
+  }
+}

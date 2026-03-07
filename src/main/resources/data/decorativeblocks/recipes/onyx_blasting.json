@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "decorativeblocks:onyx_ore"
+  },
+  "result": "decorativeblocks:onyx_shard",
+  "experience": 1.5,
+  "cookingtime": 100
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    " I ",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "decorativeblocks:steel_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:brazier",
+    "count": 1
+  }
+}

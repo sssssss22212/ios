@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OVO",
+    "VOV",
+    "OVO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "V": {
+      "item": "decorativeblocks:void_essence"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:infused_obsidian",
+    "count": 4
+  }
+}

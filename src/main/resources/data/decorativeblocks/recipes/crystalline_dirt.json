@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DCD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dirt"
+    },
+    "C": {
+      "item": "decorativeblocks:crystal_shard_blue"
+    }
+  },
+  "result": {
+    "item": "decorativeblocks:crystalline_dirt",
+    "count": 4
+  }
+}

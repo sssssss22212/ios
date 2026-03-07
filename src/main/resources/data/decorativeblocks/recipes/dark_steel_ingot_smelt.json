@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "decorativeblocks:steel_ingot"
+  },
+  "result": "decorativeblocks:dark_steel_block",
+  "experience": 0.5,
+  "cookingtime": 400
+}
