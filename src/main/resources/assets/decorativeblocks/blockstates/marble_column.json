@@ -1,7 +1,16 @@
 {
   "variants": {
-    "": {
+    "axis=y": {
       "model": "decorativeblocks:block/marble_column"
+    },
+    "axis=z": {
+      "model": "decorativeblocks:block/marble_column",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "decorativeblocks:block/marble_column",
+      "x": 90,
+      "y": 90
     }
   }
 }
