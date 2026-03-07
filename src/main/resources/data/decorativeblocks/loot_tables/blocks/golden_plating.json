@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:golden_plating"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
