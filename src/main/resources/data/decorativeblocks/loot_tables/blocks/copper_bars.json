@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:copper_bars"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
