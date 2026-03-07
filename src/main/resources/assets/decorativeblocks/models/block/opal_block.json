@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "decorativeblocks:opal_block"
+    "all": "decorativeblocks:block/opal_block"
   }
 }
