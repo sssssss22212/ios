@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "decorativeblocks:corroded_copper"
+    "all": "decorativeblocks:block/corroded_copper"
   }
 }
