@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:ancient_cobblestone"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
