@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:altar_of_rebirth"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
