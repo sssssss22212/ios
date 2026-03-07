@@ -8,11 +8,6 @@
           "type": "minecraft:item",
           "name": "decorativeblocks:arcane_bookshelf"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
       ]
     }
   ]
